@@ -11,3 +11,4 @@ I don't know why, but i feel so stressed. alright
 # Note 3
 **Hello Friends!** So about [zAltmr](https://github.com/Endternvl/zAltmr), should i update it to discord.js version 13? because actually repl isn't supporting node 16+ so yeah...
 By the way u can use xLastSkar instead...! Alright cyaa!
+(11/22/2021 8:21 AM ID TIME)
